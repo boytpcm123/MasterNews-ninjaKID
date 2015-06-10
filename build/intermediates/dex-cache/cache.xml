@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.caverock\androidsvg\1.2.1\d0cb3453e18fffeb053e9b7f052af3dcec9f75b4\androidsvg-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0cb3453e18fffeb053e9b7f052af3dcec9f75b4">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\androidsvg-1.2.1-38026456d0700ab23b90a8f77788bbeaf5f22fda.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8ac11b0d878ed7a4089daefa6fde10b3591710b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-5ffab6a9f9e6a1b90ee4491f24a302ef945551a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ca4a675874bb35f997463c9506f0a4e04572d789.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\tk.zielony\carbon\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f9758073efc0666aa476bd689cb1ba66949c29a">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-a019e5ab7a5e834c99202cbbbd0b7a3db7196ae1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b915694304bc4a4003b7e7b65577b4f0b514b06">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-81a5356f7ac6b5a1312a054187b59c0936a04ae7.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-8d0563701dcd2ffca1e845b023f68714b437b14f.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\library-2.4.0-85b12d8fe49f0fc1a9826020e71af229cb796cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.blunderer\materialdesignlibrary\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fb13272941c7015b3e41f080d2cf794e5f8ba0e">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-830dc74498115b5be6153a5578f89d3cba56ace3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-5f77a43c8a3ebcba121fbeb37bada2017a466763.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\fr.baloomba\viewpagerindicator\2.4.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c0f42853ca7567a621142dc9b533b6428b37d73">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-2fa2548f59cd03b123b24f72b7ed3379b8835941.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\USER\Desktop\MasterNews-ninjaKID\app\build\intermediates\pre-dexed\debug\classes-7066c70f264d9b5ba1adf28486a3b61a5b3f944a.jar" />
+    </item>
+
+</items>
