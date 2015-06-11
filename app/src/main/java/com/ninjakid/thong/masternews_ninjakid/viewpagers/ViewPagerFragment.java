@@ -11,8 +11,10 @@ public class ViewPagerFragment
     @Override
     public ViewPagerHandler getViewPagerHandler() {
         return new ViewPagerHandler(getActivity())
-                .addPage(R.string.title_item1, MainFragment.newInstance("Material Design Fragment ViewPager"))
-                .addPage(R.string.title_item2, MainFragment.newInstance("Material Design Fragment ViewPager"));
+                .addPage(R.string.title_item1, MainFragment.newInstance("Material Design Fragment ViewPager 1"))
+                .addPage(R.string.title_item1, MainFragment.newInstance("Material Design Fragment ViewPager 2"))
+                .addPage(R.string.title_item2, MainFragment.newInstance("Material Design Fragment ViewPager 3"));
+
     }
 
     @Override
